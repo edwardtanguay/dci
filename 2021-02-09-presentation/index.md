@@ -2,7 +2,7 @@
 
 ## 1. Will Stern's Big Picture of Web Development
 
-- Mind map of your learnscape: https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020
+- Mind map of your entire web-development learnscape: https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020
     - overwhelming but useful
     - *"Don't lose the forest for the trees."* :evergreen_tree::evergreen_tree::evergreen_tree:
     - *"Begin with the end in mind."* - Stephen Covey, Habit 2
