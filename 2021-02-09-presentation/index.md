@@ -7,8 +7,11 @@
     - *"Don't lose the forest for the trees."* :evergreen_tree::evergreen_tree::evergreen_tree:
     - *"Begin with the end in mind."* - Stephen Covey, Habit 2
 - 30 min video: https://www.youtube.com/watch?v=SBB1YtwODT0
-    - Will Stern is a no-nonsense speaker: clear, honest, opinionated, insightful
-    - *"JAMstack on Netlify is the new WordPress."*
+    - Will Stern is a no-nonsense speaker: clear, honest, opinionated 
+    - says things like: 
+		- *"JAMstack on Netlify is the new WordPress."*
+		- *"The three main JavaScript frameworks are React, Vue.js, Angular. Learn React, explore Vue when you have time, forget Angular."*
+		- insightful statements to explore and argue out
 
 ## 2. Learn something about the cloud every day
 
