@@ -4,7 +4,7 @@
 
 - Mind map of your learnscape: https://coggle.it/diagram/XfeRbWj7xy3dsEX8/t/web-development-in-2020
     - overwhelming but useful
-    - *"Don't loose the forest for the trees."* :evergreen_tree::evergreen_tree::evergreen_tree:
+    - *"Don't lose the forest for the trees."* :evergreen_tree::evergreen_tree::evergreen_tree:
     - *"Begin with the end in mind."* - Stephen Covey, Habit 2
 - 30 min video: https://www.youtube.com/watch?v=SBB1YtwODT0
     - Will Stern is a no-nonsense speaker: clear, honest, opinionated, insightful
