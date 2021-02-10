@@ -30,7 +30,7 @@
         - https://onespace.netlify.app
     - create a **framework** that helps you build software faster and more efficiently
         - https://tanguay.info/datapod
-    - create a **real project** with technology you are learning that you will use
+    - create a **real project** with technology you are learning, a project you actually use for real-world needs, i.e. one that would make you (or someone else) sad or mad if it doesn't work and one you constantly improve to make your life (or someone else's life) better
         - something you will constantly use and want to improve
         - get skin in the game: a website for a business or group that actually uses it
 
