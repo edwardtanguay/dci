@@ -27,7 +27,7 @@ goal: convince participants to use the vim plugin for VSCode
 
 - speed tour of vim:
     * h,j,k,l
-    * first two modes: motion mode, insert mode
+    * first two modes: normal mode, insert mode
     * i, I, a, A, o, O
     * dd, yy, p, P, (preceding numbers)
     * dw, diw, cw, ciw
