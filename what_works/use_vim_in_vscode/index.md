@@ -1,3 +1,8 @@
+# What Works
+
+length: `30 min` presentation
+goal: convince participants to use the vim plugin for VSCode
+
 ## Increase your coding speed and efficiency by using vim in Visual Studio Code 
 
 - **vi**, created by Bill Joy in 1976: https://en.wikipedia.org/wiki/Vi
