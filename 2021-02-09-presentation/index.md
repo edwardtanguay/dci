@@ -57,18 +57,19 @@
 <img src="images/vim_curve.png" width="400"/>
 
 - speed tour of vim:
-    - h,j,k,l
-    - first two modes: motion mode, insert mode
-    - i, I, a, A, o, O
-    - dd, yy, p, P, (preceding numbers)
-    - dw, diw, cw, ciw
-    - w and b
-    - search: /, ?, n, CTRL-o
-    - x, r, s
-    - gg, G, gt
-    - visual mode: v, V, CTRL-V
-    - gcc to comment line
-    - . to repeat an action (change - to *)
-    - macros: qa, q, @a, 11@a
+    * h,j,k,l
+    * first two modes: motion mode, insert mode
+    * i, I, a, A, o, O
+    * dd, yy, p, P, (preceding numbers)
+    * dw, diw, cw, ciw
+    * w and b
+    * search: /, ?, n, CTRL-o
+    * x, r, s
+    * gg, G, gt
+    * visual mode: v, V, CTRL-V
+    * gcc to comment line
+    * . to repeat an action (change - to *)
+    * macros: qa, q, @a, 11@a
+	* H, M, L
 - cheat sheet: https://vim.rtorr.com
 - force yourself to use it for two weeks, you'll thank yourself later
