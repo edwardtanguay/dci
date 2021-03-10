@@ -23,6 +23,8 @@ goal: convince participants to use the vim plugin for VSCode
 - disadvantages of vim
     - ***it's frustrating as hell to learn!***
 
+[here click](images/vim_curve.png)
+
 <img src="images/vim_curve.png" width="400"/>
 
 - speed tour of vim:
